@@ -1,0 +1,14 @@
+.idea/
+.pyc
+.idea/workspace.xml
+
+
+db/cuckoo.db
+log/cuckoo.log
+
+*.pyc
+
+.idea/misc.xml
+
+
+*~

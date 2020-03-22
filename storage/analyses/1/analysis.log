@@ -1,0 +1,15 @@
+2020-03-22 12:47:25,435 [root] INFO: Starting analyzer from: /data/local/tmp/potpgv
+2020-03-22 12:47:25,480 [root] INFO: Storing results at: /data/local/tmp/wypgpiaoxi
+2020-03-22 12:47:25,505 [root] INFO: Target is: /data/local/tmp/ADBManager.apk
+2020-03-22 12:47:25,521 [root] INFO: No analysis package specified, trying to detect it automagically
+2020-03-22 12:47:25,543 [root] INFO: Automatically selected analysis package "apk"
+2020-03-22 12:47:30,369 [root] INFO: Started auxiliary module FileCollector
+2020-03-22 12:47:30,467 [root] INFO: Started auxiliary module Screenshots
+2020-03-22 12:47:30,528 [root] INFO: Started auxiliary module TouchSimulator
+2020-03-22 12:47:31,041 [root] INFO: installing sample on emulator: pm install /data/local/tmp/ADBManager.apk
+2020-03-22 12:48:00,501 [root] INFO: Success
+
+2020-03-22 12:48:00,588 [root] INFO: finished
+2020-03-22 12:48:00,612 [root] INFO: executing sample on emulator:adb shell am start -n com.matoski.adbm/com.matoski.adbm.activity.MainActivity
+2020-03-22 12:50:04,833 [root] INFO: Analysis timeout hit, terminating analysis
+2020-03-22 12:50:06,301 [root] INFO: Analysis completed
