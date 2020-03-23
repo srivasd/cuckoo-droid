@@ -1,3 +1,6 @@
+sudo apt-get -y install git
+git config --global user.email "s.rivasd@alumnos.urjc.es"
+git config --global user.name "srivasd"
 sudo apt-get -y install python python-pip python-dev libffi-dev libssl-dev
 sudo apt-get -y install python-virtualenv python-setuptools
 sudo apt-get -y install libjpeg-dev zlib1g-dev swig
