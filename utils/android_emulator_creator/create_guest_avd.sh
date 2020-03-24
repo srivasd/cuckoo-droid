@@ -52,4 +52,3 @@ $ADB shell chmod 06755 /data/local/python/bin/python
 echo "Device is ready!"
 
 
-

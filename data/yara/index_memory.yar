@@ -1,1 +1,1 @@
-include "/home/osboxes/workspace/cuckoo/data/yara/memory/index_memory.yar"
+include "/home/cupani/cuckoodroid/cuckoo/data/yara/memory/index_memory.yar"
